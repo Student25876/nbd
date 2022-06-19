@@ -1,0 +1,34 @@
+48725@LAPTOP-02MMB4DO MINGW64 /d/Private/Studia/NBD/Ćwiczenia6
+$ python skrypt.py
+TWORZENIE DOKUMENTU
+Klucz: ChelseaLondyn
+Dokument: {"footballteam": "ChelseaLondyn", "year": 1954, "players": ["Drogba", "Cech", "Terry"], "winChampionsleage": "true"}
+Wynik:
+{"status": 204, "body": ""}
+
+POBIERANIE DOKUMENTU
+Klucz: ChelseaLondyn
+Wynik:
+{"status": 200, "body": {"footballteam": "ChelseaLondyn", "year": 1954, "players": ["Drogba", "Cech", "Terry"], "winChampionsleage": "true"}}
+
+AKTUALIZACJA DOKUMENTU
+Klucz: ChelseaLondyn
+Dokument: {"footballteam": "ChelseaLondyn", "year": 2002, "players": ["Drogba", "Cech", "Terry"], "winChampionsleage": "true"}
+Wynik:
+{"status": 204, "body": ""}
+
+POBIERANIE ZAKTUALIZOWANEGO DOKUMENTU
+Klucz: ChelseaLondyn
+Wynik:
+{"status": 200, "body": {"footballteam": "ChelseaLondyn", "year": 2002, "players": ["Drogba", "Cech", "Terry"], "winChampionsleage": "true"}}
+
+USUWANIE DOKUMENTU
+Klucz: ChelseaLondyn
+Wynik:
+{"status": 204, "body": ""}
+
+POBIERANIE USUNIETEGO DOKUMNETU
+Klucz: ChelseaLondyn
+Wynik:
+{"status": 404, "body": "not found\n"}
+
