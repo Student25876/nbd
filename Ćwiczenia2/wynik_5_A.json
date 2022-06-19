@@ -1,0 +1,371 @@
+MongoDB shell version v5.0.9
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("7818c80d-6a9a-4254-b31e-f101e3ebd930") }
+MongoDB server version: 5.0.9
+[
+	{
+		"_id" : "NIO",
+		"totalBalance" : 19942,
+		"averBalance" : 4985.5
+	},
+	{
+		"_id" : "MGA",
+		"totalBalance" : 29118,
+		"averBalance" : 4853
+	},
+	{
+		"_id" : "XOF",
+		"totalBalance" : 35760,
+		"averBalance" : 5960
+	},
+	{
+		"_id" : "VUV",
+		"totalBalance" : 12836,
+		"averBalance" : 6418
+	},
+	{
+		"_id" : "PHP",
+		"totalBalance" : 237188,
+		"averBalance" : 4941.416666666667
+	},
+	{
+		"_id" : "NPR",
+		"totalBalance" : 11584,
+		"averBalance" : 5792
+	},
+	{
+		"_id" : "DOP",
+		"totalBalance" : 41344,
+		"averBalance" : 5168
+	},
+	{
+		"_id" : "ILS",
+		"totalBalance" : 32590,
+		"averBalance" : 5431.666666666667
+	},
+	{
+		"_id" : "XPF",
+		"totalBalance" : 9518,
+		"averBalance" : 4759
+	},
+	{
+		"_id" : "CUP",
+		"totalBalance" : 30032,
+		"averBalance" : 5005.333333333333
+	},
+	{
+		"_id" : "KZT",
+		"totalBalance" : 7576,
+		"averBalance" : 3788
+	},
+	{
+		"_id" : "HNL",
+		"totalBalance" : 33026,
+		"averBalance" : 5504.333333333333
+	},
+	{
+		"_id" : "UZS",
+		"totalBalance" : 7146,
+		"averBalance" : 3573
+	},
+	{
+		"_id" : "PEN",
+		"totalBalance" : 46450,
+		"averBalance" : 4645
+	},
+	{
+		"_id" : "ZMW",
+		"totalBalance" : 11138,
+		"averBalance" : 5569
+	},
+	{
+		"_id" : "HRK",
+		"totalBalance" : 48704,
+		"averBalance" : 4870.4
+	},
+	{
+		"_id" : "PKR",
+		"totalBalance" : 37872,
+		"averBalance" : 4734
+	},
+	{
+		"_id" : "KRW",
+		"totalBalance" : 26756,
+		"averBalance" : 6689
+	},
+	{
+		"_id" : "LYD",
+		"totalBalance" : 17528,
+		"averBalance" : 4382
+	},
+	{
+		"_id" : "BYR",
+		"totalBalance" : 10190,
+		"averBalance" : 5095
+	},
+	{
+		"_id" : "IQD",
+		"totalBalance" : 8538,
+		"averBalance" : 4269
+	},
+	{
+		"_id" : "NOK",
+		"totalBalance" : 9546,
+		"averBalance" : 4773
+	},
+	{
+		"_id" : "BRL",
+		"totalBalance" : 99254,
+		"averBalance" : 4511.545454545455
+	},
+	{
+		"_id" : "IDR",
+		"totalBalance" : 647776,
+		"averBalance" : 4907.393939393939
+	},
+	{
+		"_id" : "COP",
+		"totalBalance" : 39490,
+		"averBalance" : 4936.25
+	},
+	{
+		"_id" : "XAF",
+		"totalBalance" : 28188,
+		"averBalance" : 4698
+	},
+	{
+		"_id" : "PYG",
+		"totalBalance" : 9748,
+		"averBalance" : 4874
+	},
+	{
+		"_id" : "USD",
+		"totalBalance" : 161286,
+		"averBalance" : 5040.1875
+	},
+	{
+		"_id" : "ARS",
+		"totalBalance" : 46478,
+		"averBalance" : 4647.8
+	},
+	{
+		"_id" : "ALL",
+		"totalBalance" : 6650,
+		"averBalance" : 3325
+	},
+	{
+		"_id" : "RSD",
+		"totalBalance" : 8552,
+		"averBalance" : 4276
+	},
+	{
+		"_id" : "PLN",
+		"totalBalance" : 181522,
+		"averBalance" : 5042.277777777777
+	},
+	{
+		"_id" : "NGN",
+		"totalBalance" : 49888,
+		"averBalance" : 4157.333333333333
+	},
+	{
+		"_id" : "CLP",
+		"totalBalance" : 42014,
+		"averBalance" : 5251.75
+	},
+	{
+		"_id" : "YER",
+		"totalBalance" : 27422,
+		"averBalance" : 4570.333333333333
+	},
+	{
+		"_id" : "CZK",
+		"totalBalance" : 74304,
+		"averBalance" : 4644
+	},
+	{
+		"_id" : "GTQ",
+		"totalBalance" : 11612,
+		"averBalance" : 5806
+	},
+	{
+		"_id" : "JPY",
+		"totalBalance" : 121880,
+		"averBalance" : 5078.333333333333
+	},
+	{
+		"_id" : "RUB",
+		"totalBalance" : 239472,
+		"averBalance" : 4989
+	},
+	{
+		"_id" : "ETB",
+		"totalBalance" : 10872,
+		"averBalance" : 5436
+	},
+	{
+		"_id" : "CDF",
+		"totalBalance" : 24456,
+		"averBalance" : 6114
+	},
+	{
+		"_id" : "KYD",
+		"totalBalance" : 7520,
+		"averBalance" : 3760
+	},
+	{
+		"_id" : "BWP",
+		"totalBalance" : 8152,
+		"averBalance" : 4076
+	},
+	{
+		"_id" : "AMD",
+		"totalBalance" : 49214,
+		"averBalance" : 4921.4
+	},
+	{
+		"_id" : "IRR",
+		"totalBalance" : 53004,
+		"averBalance" : 4417
+	},
+	{
+		"_id" : "SRD",
+		"totalBalance" : 10572,
+		"averBalance" : 5286
+	},
+	{
+		"_id" : "BOB",
+		"totalBalance" : 10526,
+		"averBalance" : 5263
+	},
+	{
+		"_id" : "ISK",
+		"totalBalance" : 8632,
+		"averBalance" : 4316
+	},
+	{
+		"_id" : "MYR",
+		"totalBalance" : 9562,
+		"averBalance" : 4781
+	},
+	{
+		"_id" : "UAH",
+		"totalBalance" : 80936,
+		"averBalance" : 5058.5
+	},
+	{
+		"_id" : "ZAR",
+		"totalBalance" : 23578,
+		"averBalance" : 3929.6666666666665
+	},
+	{
+		"_id" : "RWF",
+		"totalBalance" : 9264,
+		"averBalance" : 4632
+	},
+	{
+		"_id" : "MMK",
+		"totalBalance" : 9258,
+		"averBalance" : 4629
+	},
+	{
+		"_id" : "TJS",
+		"totalBalance" : 8174,
+		"averBalance" : 4087
+	},
+	{
+		"_id" : "VND",
+		"totalBalance" : 72312,
+		"averBalance" : 4519.5
+	},
+	{
+		"_id" : "NZD",
+		"totalBalance" : 10656,
+		"averBalance" : 5328
+	},
+	{
+		"_id" : "MKD",
+		"totalBalance" : 7670,
+		"averBalance" : 3835
+	},
+	{
+		"_id" : "ZWL",
+		"totalBalance" : 11584,
+		"averBalance" : 5792
+	},
+	{
+		"_id" : "EUR",
+		"totalBalance" : 490138,
+		"averBalance" : 4901.38
+	},
+	{
+		"_id" : "TZS",
+		"totalBalance" : 14104,
+		"averBalance" : 3526
+	},
+	{
+		"_id" : "AFN",
+		"totalBalance" : 33508,
+		"averBalance" : 5584.666666666667
+	},
+	{
+		"_id" : "CNY",
+		"totalBalance" : 941300,
+		"averBalance" : 4954.210526315789
+	},
+	{
+		"_id" : "MAD",
+		"totalBalance" : 7636,
+		"averBalance" : 3818
+	},
+	{
+		"_id" : "MXN",
+		"totalBalance" : 100448,
+		"averBalance" : 5022.4
+	},
+	{
+		"_id" : "EGP",
+		"totalBalance" : 11158,
+		"averBalance" : 5579
+	},
+	{
+		"_id" : "MNT",
+		"totalBalance" : 43426,
+		"averBalance" : 5428.25
+	},
+	{
+		"_id" : "MWK",
+		"totalBalance" : 7148,
+		"averBalance" : 3574
+	},
+	{
+		"_id" : "BGN",
+		"totalBalance" : 42400,
+		"averBalance" : 5300
+	},
+	{
+		"_id" : "CAD",
+		"totalBalance" : 116742,
+		"averBalance" : 5306.454545454545
+	},
+	{
+		"_id" : "GBP",
+		"totalBalance" : 12298,
+		"averBalance" : 6149
+	},
+	{
+		"_id" : "VEF",
+		"totalBalance" : 16666,
+		"averBalance" : 4166.5
+	},
+	{
+		"_id" : "THB",
+		"totalBalance" : 46040,
+		"averBalance" : 4604
+	},
+	{
+		"_id" : "SEK",
+		"totalBalance" : 141664,
+		"averBalance" : 5059.428571428572
+	}
+]
