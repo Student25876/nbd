@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn/Y+TcFyGbKYEpkzGNl+HxN+Q5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s25876>; rel="up"
+Last-Modified: Sun, 19 Jun 2022 17:20:51 GMT
+ETag: "xGGLU759sFJ5gGXbYgt0J"
+Date: Sun, 19 Jun 2022 17:21:46 GMT
+Content-Type: application/json
+Content-Length: 119
+
+{"footballteam": "Arsenal Londyn", "year": 1923, "players": ["Henry", "Company", "Lallana"], "winChampionsleage": true}

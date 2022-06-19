@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn/Ynv0TyGbKYEpkzGNlcLykfIcvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s25876>; rel="up"
+Last-Modified: Sun, 19 Jun 2022 17:00:49 GMT
+ETag: "79gCHE634ukzWEkHe61fxZ"
+Date: Sun, 19 Jun 2022 17:07:02 GMT
+Content-Type: application/json
+Content-Length: 123
+
+{"footballteam": "Manchester united", "year": 1897, "players": ["Ronaldo", "Kuszczak", "Pogba"], "winChampionsleage": true}

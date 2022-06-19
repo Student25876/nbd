@@ -1,0 +1,54 @@
+﻿[
+  {
+    "actor1": {
+"identity": 172,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1981,
+"name": "Chris Evans"
+      }
+    },
+    "actor2": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Hayley Atwell"
+      }
+    },
+    "actor3": {
+"identity": 176,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Sebastian Stan"
+      }
+    },
+    "director": {
+"identity": 178,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Joe Jonston"
+      }
+    },
+    "writer": {
+"identity": 180,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Christ Markus"
+      }
+    }
+  }
+]

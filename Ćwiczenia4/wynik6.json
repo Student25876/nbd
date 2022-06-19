@@ -1,0 +1,914 @@
+﻿[
+  {
+    "dest": {
+"identity": 51,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "totalPrice": 165.75
+  },
+  {
+    "dest": {
+"identity": 51,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "totalPrice": 222
+  },
+  {
+    "dest": {
+"identity": 51,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "totalPrice": 265.2
+  },
+  {
+    "dest": {
+"identity": 51,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FAT"
+      }
+    },
+    "totalPrice": 267.59999999999997
+  },
+  {
+    "dest": {
+"identity": 23,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "totalPrice": 296.25
+  },
+  {
+    "dest": {
+"identity": 35,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LAS"
+      }
+    },
+    "totalPrice": 298.8
+  },
+  {
+    "dest": {
+"identity": 23,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "totalPrice": 393
+  },
+  {
+    "dest": {
+"identity": 23,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "totalPrice": 394
+  },
+  {
+    "dest": {
+"identity": 23,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SMF"
+      }
+    },
+    "totalPrice": 471.59999999999997
+  },
+  {
+    "dest": {
+"identity": 52,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "totalPrice": 472
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 528.0
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 528.75
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 528.75
+  },
+  {
+    "dest": {
+"identity": 52,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUS"
+      }
+    },
+    "totalPrice": 566.4
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 706
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 846.0
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 847.1999999999999
+  },
+  {
+    "dest": {
+"identity": 50,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ABQ"
+      }
+    },
+    "totalPrice": 848.4
+  },
+  {
+    "dest": {
+"identity": 27,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DEN"
+      }
+    },
+    "totalPrice": 952.8
+  },
+  {
+    "dest": {
+"identity": 12,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAH"
+      }
+    },
+    "totalPrice": 1070.25
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1230.0
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1230.0
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1230.0
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1230.0
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1230.0
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1230.75
+  },
+  {
+    "dest": {
+"identity": 27,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DEN"
+      }
+    },
+    "totalPrice": 1242.25
+  },
+  {
+    "dest": {
+"identity": 67,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "AUS"
+      }
+    },
+    "totalPrice": 1249.05
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1283.25
+  },
+  {
+    "dest": {
+"identity": 28,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DFW"
+      }
+    },
+    "totalPrice": 1307.25
+  },
+  {
+    "dest": {
+"identity": 13,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SAT"
+      }
+    },
+    "totalPrice": 1312.65
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1325.85
+  },
+  {
+    "dest": {
+"identity": 74,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "CRP"
+      }
+    },
+    "totalPrice": 1328.25
+  },
+  {
+    "dest": {
+"identity": 27,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DEN"
+      }
+    },
+    "totalPrice": 1339
+  },
+  {
+    "dest": {
+"identity": 27,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DEN"
+      }
+    },
+    "totalPrice": 1340
+  },
+  {
+    "dest": {
+"identity": 27,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "DEN"
+      }
+    },
+    "totalPrice": 1417.6
+  },
+  {
+    "dest": {
+"identity": 69,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MFE"
+      }
+    },
+    "totalPrice": 1469.85
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1487.55
+  },
+  {
+    "dest": {
+"identity": 75,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "TUL"
+      }
+    },
+    "totalPrice": 1519.25
+  },
+  {
+    "dest": {
+"identity": 45,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BHM"
+      }
+    },
+    "totalPrice": 1660.25
+  },
+  {
+    "dest": {
+"identity": 45,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BHM"
+      }
+    },
+    "totalPrice": 1661.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1688.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1690.5
+  },
+  {
+    "dest": {
+"identity": 14,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MCO"
+      }
+    },
+    "totalPrice": 1737.0
+  },
+  {
+    "dest": {
+"identity": 45,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BHM"
+      }
+    },
+    "totalPrice": 1779.4499999999998
+  },
+  {
+    "dest": {
+"identity": 45,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BHM"
+      }
+    },
+    "totalPrice": 1779.4499999999998
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1785.0
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1786.0
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1787.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1788.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1799.25
+  },
+  {
+    "dest": {
+"identity": 48,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "PBI"
+      }
+    },
+    "totalPrice": 1818.75
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1863.6
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 1865.85
+  },
+  {
+    "dest": {
+"identity": 11,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "EWR"
+      }
+    },
+    "totalPrice": 1907.25
+  },
+  {
+    "dest": {
+"identity": 14,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "MCO"
+      }
+    },
+    "totalPrice": 1960.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 2032.25
+  },
+  {
+    "dest": {
+"identity": 11,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "EWR"
+      }
+    },
+    "totalPrice": 2159.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 2202.0
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 2236.6499999999996
+  },
+  {
+    "dest": {
+"identity": 16,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FLL"
+      }
+    },
+    "totalPrice": 2275.05
+  },
+  {
+    "dest": {
+"identity": 29,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SLC"
+      }
+    },
+    "totalPrice": 2313.25
+  },
+  {
+    "dest": {
+"identity": 22,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAD"
+      }
+    },
+    "totalPrice": 2318.25
+  },
+  {
+    "dest": {
+"identity": 32,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SNA"
+      }
+    },
+    "totalPrice": 2466.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 2467.5
+  },
+  {
+    "dest": {
+"identity": 11,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "EWR"
+      }
+    },
+    "totalPrice": 2538.25
+  },
+  {
+    "dest": {
+"identity": 41,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "LGA"
+      }
+    },
+    "totalPrice": 2541.25
+  },
+  {
+    "dest": {
+"identity": 65,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORF"
+      }
+    },
+    "totalPrice": 2565.45
+  },
+  {
+    "dest": {
+"identity": 66,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BWI"
+      }
+    },
+    "totalPrice": 2612.25
+  },
+  {
+    "dest": {
+"identity": 17,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "ORD"
+      }
+    },
+    "totalPrice": 2664.25
+  },
+  {
+    "dest": {
+"identity": 26,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "BOS"
+      }
+    },
+    "totalPrice": 2700
+  },
+  {
+    "dest": {
+"identity": 16,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "FLL"
+      }
+    },
+    "totalPrice": 2741.25
+  },
+  {
+    "dest": {
+"identity": 21,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SFO"
+      }
+    },
+    "totalPrice": 2765.25
+  },
+  {
+    "dest": {
+"identity": 21,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "SFO"
+      }
+    },
+    "totalPrice": 2782.25
+  },
+  {
+    "dest": {
+"identity": 22,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAD"
+      }
+    },
+    "totalPrice": 2865.6
+  },
+  {
+    "dest": {
+"identity": 12,
+"labels": [
+        "Airport"
+      ],
+"properties": {
+"name": "IAH"
+      }
+    },
+    "totalPrice": 2996.25
+  }
+]

@@ -1,0 +1,66 @@
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Fc Barcelona", "year": 1887, "players": ["Messi", "Xavi", "Henry"], "winChampionsleage": true}' \
+http://localhost:8098/buckets/s25876/keys/FcBarcelona 
+
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Real Madrid", "year": 1917, "players": ["Ronaldo", "Modric", "Kaka"], "winChampionsleage": true}' \
+http://localhost:8098/buckets/s25876/keys/RealMardid 
+
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Sevilla", "year": 1942, "players": ["Rakitic", "Kolomyi", "Trezaqued"], "winChampionsleage": false}' \
+http://localhost:8098/buckets/s25876/keys/Sevilla
+
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Legia Warszawa", "year": 1987, "players": ["Jedrzejczyk", "Boruc", "Rodovic"], "winChampionsleage": false}' \
+http://localhost:8098/buckets/s25876/keys/LegiaWarszawa
+
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Manchester united", "year": 1897, "players": ["Ronaldo", "Kuszczak", "Pogba"], "winChampionsleage": true}' \
+http://localhost:8098/buckets/s25876/keys/ManchesterUtd
+
+
+2.
+curl -i http://localhost:8098/buckets/s25878/keys/ManchesterUtd
+
+3.
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Manchester united", "year": 1897, "players": ["Ronaldo", "Kuszczak", "Pogba"], "winChampionsleage": true, "coach":"Alex Ferguson"}' \
+http://localhost:8098/buckets/s25876/keys/ManchesterUtd
+
+
+4.
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Legia Warszawa", "year": 1987, "players": ["Jedrzejczyk", "Boruc", "Rodovic"]}' \
+http://localhost:8098/buckets/s25876/keys/LegiaWarszawa
+
+
+5.
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Fc Barcelona", "year": 1887, "players": ["Eto", "Ronaldinho", "Valdes"], "winChampionsleage": true}' \
+http://localhost:8098/buckets/s25876/keys/FcBarcelona 
+
+6.
+curl -i -XDELETE http://localhost:8098/buckets/s25876/keys/LegiaWarszawa
+
+7.
+curl -i http://localhost:8098/buckets/s25876/keys/WislaKrakow
+
+8.
+curl -i -XPUT \
+-H "Content-Type: application/json" \
+-d '{"footballteam": "Arsenal Londyn", "year": 1923, "players": ["Henry", "Company", "Lallana"], "winChampionsleage": true}' \
+http://localhost:8098/buckets/s25876/keys
+
+9.
+curl -i http://localhost:8098/buckets/s25878/keys/6JIfzZuyQrd8dNU59x8aDxexTvd
+
+10.
+curl -i -XDELETE http://localhost:8098/buckets/s25878/keys/6JIfzZuyQrd8dNU59x8aDxexTvd
